@@ -1,4 +1,4 @@
-# Olá, eu sou o TH!
+# Olá, eu sou o Thiago!
 ### Estudante de Jogos Digitais & Análise e Desenvolvimento de Sistemas
 Sou estudante apaixonado por **desenvolvimento de jogos, programação e criação de projetos digitais**.
 Atualmente estou construindo minha formação em diferentes áreas da tecnologia:
